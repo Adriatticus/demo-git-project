@@ -1,0 +1,21 @@
+repos folder is NOT a repository, but a folder of repositories
+git hub (git) - version control
+
+cli - command line interface
+gui - Graphical user interface
+
+pwd - present working directory
+
+mkdir - make a folder in directory
+
+rmdir - removes (empty) folder
+
+Maximum Bootcamp 20250121
+Jim
+Andy
+Nick
+Christian
+Adrian
+
+Remote-
+
