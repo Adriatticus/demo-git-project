@@ -1,0 +1,9 @@
+repos folder is NOT a repository, but a folder of repositories
+
+cli - command line interface
+gui - Graphical user interface
+
+pwd - present working directory
+
+mkdir - make a folder in directory
+
